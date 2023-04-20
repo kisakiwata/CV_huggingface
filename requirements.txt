@@ -1,0 +1,13 @@
+huggingface_hub
+datasets
+Pillow
+transformers
+torchvision
+evaluate
+numpy
+#sklearn
+scikit-learn
+accelerate 
+nvidia-ml-py3
+pynvml
+torch
